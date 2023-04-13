@@ -9,6 +9,7 @@ NOTE: Rename the gitignore file name as .gitignore after you clone the repo to y
 ```
 python >= 3.5
 ```
+this is betsol workshop 
 
 ## Getting started
 
